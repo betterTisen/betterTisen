@@ -1,3 +1,7 @@
+### Hi there, I'm [iceiceice!](https://omg.byeguo.cn) 👋
+
+- 🔭 I’m currently writing on my [blog](https://github.com/betterTisen/gatsby-omg-blog)
+- 🌱 I’m currently learning React & Typescript
 
 **Languages and Tools:**  
 
