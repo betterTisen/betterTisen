@@ -11,5 +11,5 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betterTisen&title_color=4B8BBE&icon_color=FFD43B&text_color=646464&bg_color=ffffff)](https://github.com/betterTisen) [![iceiceice's github stats](https://github-readme-stats.vercel.app/api?username=betterTisen&show_icons=true&title_color=4B8BBE&icon_color=FFD43B&text_color=646464&bg_color=ffffff)](https://github.com/betterTisen)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betterTisen&title_color=2a87d2&icon_color=fdd030&text_color=525252&bg_color=ffffff)](https://github.com/betterTisen) [![iceiceice's github stats](https://github-readme-stats.vercel.app/api?username=betterTisen&show_icons=true&title_color=2a87d2&icon_color=fdd030&text_color=525252&bg_color=ffffff)](https://github.com/betterTisen)
 
