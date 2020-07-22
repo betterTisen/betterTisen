@@ -11,5 +11,5 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betterTisen)](https://github.com/betterTisen) [![iceiceice's github stats](https://github-readme-stats.vercel.app/api?username=betterTisen&show_icons=true)](https://github.com/betterTisen)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betterTisen&theme=merko&bg_color=ffffff)](https://github.com/betterTisen) [![iceiceice's github stats](https://github-readme-stats.vercel.app/api?username=betterTisen&show_icons=true&theme=merko&bg_color=ffffff)](https://github.com/betterTisen)
 
