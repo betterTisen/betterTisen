@@ -5,7 +5,8 @@
 
 **Languages and Tools:**  
 
-[![react](https://pure-escarpment-54474.herokuapp.com/api)](https://github.com/betterTisen/github-skill-card)
+[![react](https://pure-escarpment-54474.herokuapp.com/api?type=react)](https://github.com/betterTisen/github-skill-card)
+[![vue](https://pure-escarpment-54474.herokuapp.com/api?type=vue)](https://github.com/betterTisen/github-skill-card)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
