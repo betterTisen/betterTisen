@@ -1,7 +1,7 @@
 ### Hi there, I'm [Suifu!](https://omg.byeguo.cn) 👋
 
 - 🍎 I’m currently writing on my [blog](https://github.com/betterTisen/gatsby-omg-blog)
-- 🍉 I’m currently writing a html generation tool on [Seditor](https://github.com/betterTisen/Seditor)
+- 🍉 I’m currently writing a html generation tool on [Qieditor](https://github.com/betterTisen/Seditor)
 - 🍇 I’m currently learning 💻 Compilation Principle & 📟 Computer Graphics
 
 **Languages and Tools:**  
