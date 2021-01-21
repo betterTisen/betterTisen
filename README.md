@@ -11,6 +11,7 @@
 [![javascript](https://pure-escarpment-54474.herokuapp.com/api?type=javascript)](https://github.com/betterTisen/github-skill-card)
 [![typescript](https://pure-escarpment-54474.herokuapp.com/api?type=typescript)](https://github.com/betterTisen/github-skill-card)
 [![react](https://pure-escarpment-54474.herokuapp.com/api?type=react)](https://github.com/betterTisen/github-skill-card)
+[![svelte](https://pure-escarpment-54474.herokuapp.com/api?type=svelte)](https://github.com/betterTisen/github-skill-card)
 [![vue](https://pure-escarpment-54474.herokuapp.com/api?type=vue)](https://github.com/betterTisen/github-skill-card)
 
 ---
