@@ -13,7 +13,7 @@
 [![react](https://pure-escarpment-54474.herokuapp.com/api?type=react)](https://github.com/betterTisen/github-skill-card)
 
 [![vue](https://pure-escarpment-54474.herokuapp.com/api?type=vue)](https://github.com/betterTisen/github-skill-card)
-
+[![skill](https://pure-escarpment-54474.herokuapp.com/api?type=svelte)](https://github.com/betterTisen/github-skill-card)
 ---
 
 [![iceiceice's github stats](https://github-readme-stats.vercel.app/api?username=betterTisen&show_icons=true&title_color=2a87d2&icon_color=fdd030&text_color=525252&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
