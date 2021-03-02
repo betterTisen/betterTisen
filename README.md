@@ -2,7 +2,7 @@
 
 - 🍎 I’m currently writing on my [blog](https://github.com/betterTisen/gatsby-omg-blog)
 - 🍉 I’m currently writing a html generation tool on [Qieditor](https://github.com/Qionline/Qieditor)
-- 🍇 I’m currently learning 💻 Compilation Principle & 📟 Computer Graphics
+- 🍇 I’m currently learning 🔦 Embedded programming
 
 #### Frontend Languages and Tools: 
 
@@ -45,7 +45,6 @@
 ![raspberry_pi](https://img.shields.io/badge/raspberry_pi-C51A4A.svg?&style=for-the-badge&logo=raspberry-pi&logoColor=ffffff)
 
 ![arduino](https://img.shields.io/badge/arduino-00979D.svg?&style=for-the-badge&logo=arduino&logoColor=ffffff)
-
 
 ---
 
