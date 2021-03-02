@@ -1,6 +1,7 @@
 ### Hi there, I'm [Suifu!](https://omg.byeguo.cn) 👋
 
 ![suifu](./images/1.gif)
+![suifu](./images/2.gif)
 
 - 🍎 I’m currently writing on my [blog](https://github.com/betterTisen/gatsby-omg-blog)
 - 🍉 I’m currently writing a html generation tool on [Qieditor](https://github.com/Qionline/Qieditor)
