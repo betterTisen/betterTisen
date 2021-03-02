@@ -16,9 +16,6 @@
 
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=ffffff)
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![less](https://img.shields.io/badge/less-1D365D?logo=less&logoColor=ffffff&style=for-the-badge)
-![sass](https://img.shields.io/badge/sass-CC6699?logo=sass&logoColor=ffffff&style=for-the-badge)
-![graphql](https://img.shields.io/badge/graphql-E10098?logo=graphql&logoColor=ffffff&style=for-the-badge)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=222222&style=for-the-badge)
 ![typescript](https://img.shields.io/badge/typescript-007ACC?logo=typescript&logoColor=ffffff&style=for-the-badge)
 ![csharp](https://img.shields.io/badge/c_sharp-239120?logo=c-sharp&logoColor=ffffff&style=for-the-badge)
@@ -28,14 +25,10 @@
 ![reactjs](https://img.shields.io/badge/react-61dafb.svg?&style=for-the-badge&logo=react&logoColor=333333)
 ![vuejs](https://img.shields.io/badge/vue-35495e.svg?&style=for-the-badge&logo=vue.js)
 ![electron](https://img.shields.io/badge/electron-47848F.svg?&style=for-the-badge&logo=electron&logoColor=ffffff)
-![gatsby](https://img.shields.io/badge/gatsby-663399.svg?&style=for-the-badge&logo=gatsby&logoColor=ffffff)
-![next](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=ffffff)
 ![unity](https://img.shields.io/badge/unity-555555.svg?&style=for-the-badge&logo=unity&logoColor=ffffff)
 ![aseprite](https://img.shields.io/badge/aseprite-888888.svg?&style=for-the-badge&logo=aseprite&logoColor=ffffff)
 
-![npm](https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=ffffff)
 ![rollup](https://img.shields.io/badge/rollup-EC4A3F.svg?&style=for-the-badge&logo=rollup.js&logoColor=ffffff)
-![yarn](https://img.shields.io/badge/yarn-2C8EBB.svg?&style=for-the-badge&logo=yarn&logoColor=ffffff) 
 ![webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=ffffff) 
 
 #### Backend Languages and Tools:
