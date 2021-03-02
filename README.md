@@ -26,6 +26,7 @@
 ![gatsby](https://img.shields.io/badge/gatsby-663399.svg?&style=for-the-badge&logo=gatsby&logoColor=ffffff)
 ![next](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=ffffff)
 ![unity](https://img.shields.io/badge/unity-555555.svg?&style=for-the-badge&logo=unity&logoColor=ffffff)
+![aseprite](https://img.shields.io/badge/aseprite-888888.svg?&style=for-the-badge&logo=aseprite&logoColor=ffffff)
 
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=ffffff)
 ![rollup](https://img.shields.io/badge/rollup-EC4A3F.svg?&style=for-the-badge&logo=rollup.js&logoColor=ffffff)
