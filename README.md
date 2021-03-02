@@ -10,6 +10,7 @@
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![less](https://img.shields.io/badge/less-1D365D?logo=less&logoColor=ffffff&style=for-the-badge)
 ![sass](https://img.shields.io/badge/sass-CC6699?logo=sass&logoColor=ffffff&style=for-the-badge)
+![graphql](https://img.shields.io/badge/graphql-E10098?logo=graphql&logoColor=ffffff&style=for-the-badge)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=222222&style=for-the-badge)
 ![typescript](https://img.shields.io/badge/typescript-007ACC?logo=typescript&logoColor=ffffff&style=for-the-badge)
 ![csharp](https://img.shields.io/badge/c_sharp-239120?logo=c-sharp&logoColor=ffffff&style=for-the-badge)
@@ -36,11 +37,15 @@
 
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logoColor=ffffff&logo=docker)
 ![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=ffffff)
-
+![nginx](https://img.shields.io/badge/nginx-269539.svg?&style=for-the-badge&logo=nginx&logoColor=ffffff)
 
 #### Embedded
 
+![espressif](https://img.shields.io/badge/espressif-E7352C.svg?&style=for-the-badge&logo=espressif&logoColor=ffffff)
+![raspberry_pi](https://img.shields.io/badge/raspberry_pi-C51A4A.svg?&style=for-the-badge&logo=raspberry-pi&logoColor=ffffff)
+
 ![arduino](https://img.shields.io/badge/arduino-00979D.svg?&style=for-the-badge&logo=arduino&logoColor=ffffff)
+
 
 ---
 
