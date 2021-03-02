@@ -1,4 +1,4 @@
-### Hi there, I'm [Suifu!](https://omg.byeguo.cn) 👋
+<h1 align="right"> Hi there, I'm Suifu! 👋</h2>
 
 ![suifu](./images/1.gif)
 ![suifu](./images/2.gif)
@@ -6,6 +6,11 @@
 - 🍎 I’m currently writing on my [blog](https://github.com/betterTisen/gatsby-omg-blog)
 - 🍉 I’m currently writing a html generation tool on [Qieditor](https://github.com/Qionline/Qieditor)
 - 🍇 I’m currently learning 🔦 Embedded programming
+
+[![iceiceice's github stats](https://github-readme-stats.vercel.app/api?username=betterTisen&show_icons=true&title_color=2a87d2&icon_color=fdd030&text_color=525252&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betterTisen&layout=compact&title_color=2a87d2&icon_color=fdd030&text_color=525252&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 #### Frontend Languages and Tools: 
 
@@ -49,8 +54,3 @@
 ![raspberry_pi](https://img.shields.io/badge/raspberry_pi-C51A4A.svg?&style=for-the-badge&logo=raspberry-pi&logoColor=ffffff)
 
 ![arduino](https://img.shields.io/badge/arduino-00979D.svg?&style=for-the-badge&logo=arduino&logoColor=ffffff)
-
----
-
-[![iceiceice's github stats](https://github-readme-stats.vercel.app/api?username=betterTisen&show_icons=true&title_color=2a87d2&icon_color=fdd030&text_color=525252&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betterTisen&layout=compact&title_color=2a87d2&icon_color=fdd030&text_color=525252&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
