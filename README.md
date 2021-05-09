@@ -1,4 +1,4 @@
-<h1 align="right"> Hi there 👋 I'm Suifu!</h2>
+<h1 align="right"> Hi there 👋 I'm Byeguo!</h2>
 
 ![suifu](./images/1.gif)
 ![suifu](./images/2.gif)
