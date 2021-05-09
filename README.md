@@ -1,7 +1,7 @@
 <h1 align="right"> Hi there 👋 I'm Byeguo!</h2>
 
-![suifu](./images/1.gif)
-![suifu](./images/2.gif)
+![suifu](https://cdn.jsdelivr.net/gh/betterTisen/betterTisen/images/1.gif)
+![suifu](https://cdn.jsdelivr.net/gh/betterTisen/betterTisen/images/2.gif)
 
 - 🍎 I’m currently writing on my [blog](https://github.com/betterTisen/gatsby-omg-blog)
 - 🍉 I’m currently writing a html generation tool on [Qieditor](https://github.com/Qionline/Qieditor)
