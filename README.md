@@ -7,9 +7,6 @@
 - 🍉 I’m currently writing a html generation tool on [Qieditor](https://github.com/Qionline/Qieditor)
 - 🍇 I’m currently learning 🔦 Embedded programming
 
-[![iceiceice's github stats](https://github-readme-stats.vercel.app/api?username=betterTisen&show_icons=true&title_color=2a87d2&icon_color=fdd030&text_color=525252&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betterTisen&layout=compact&title_color=2a87d2&icon_color=fdd030&text_color=525252&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 #### Frontend Languages and Tools: 
@@ -25,6 +22,7 @@
 ![reactjs](https://img.shields.io/badge/react-61dafb.svg?&style=for-the-badge&logo=react&logoColor=333333)
 ![vuejs](https://img.shields.io/badge/vue-35495e.svg?&style=for-the-badge&logo=vue.js)
 ![electron](https://img.shields.io/badge/electron-47848F.svg?&style=for-the-badge&logo=electron&logoColor=ffffff)
+![godot](https://img.shields.io/badge/godot-2e5561.svg?&style=for-the-badge&logo=godotengine&logoColor=ffffff)
 ![unity](https://img.shields.io/badge/unity-555555.svg?&style=for-the-badge&logo=unity&logoColor=ffffff)
 ![aseprite](https://img.shields.io/badge/aseprite-888888.svg?&style=for-the-badge&logo=aseprite&logoColor=ffffff)
 
